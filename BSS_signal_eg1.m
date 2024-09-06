@@ -1,3 +1,6 @@
+%reference:
+%[1]  R. R. Bond, et al., Vibration-based condition monitoring: industrial, aerospace and automotive applications, 2011.
+%[2]  https://ww2.mathworks.cn/help/signal/ug/vibration-analysis-of-rotating-machinery.html
 fs = 20E3;          % Sample Rate (Hz)
 Np = 13;            % Number of teeth on pinion
 Ng = 35;            % Number of teeth on gear
